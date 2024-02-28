@@ -50,7 +50,7 @@ em Linux
 
 ## Screenshot
 
-
+![Grave a tela  do seu PC  com essa lib](https://github.com/python-brasil/grave-a-tela-do-seu-pc-com-essa-lib/assets/126124866/6e9b4d95-a014-4171-8b75-29e04911841e)
 
 ## Infos de commits
 
